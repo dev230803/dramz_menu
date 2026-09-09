@@ -439,8 +439,8 @@ const restaurantData = {
       bestseller: true,
       veg: true,
       image: baked_tiropati,
-      model: "/models/compressed_baked_tiropati.glb",
-      modelIos: "/models/baked_tiropati.usdz"
+      model: "/models/c_baked_tiropati.glb",
+      modelIos: "/models/ios_baked_tiropati.usdz"
     },
     {
       id: "caribbean-jerk-chicken",

@@ -19,7 +19,7 @@ const ModelViewerModal = ({ dish, onClose }) => {
           src={dish.model}
           ios-src={dish.modelIos}
           ar
-          ar-modes="webxr scene-viewer quick-look"
+          ar-modes="scene-viewer"
           ar-scale="fixed"
           camera-controls
           auto-rotate
